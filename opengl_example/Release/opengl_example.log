@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(152): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(151): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(156): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(155): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(154): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(160): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(159): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opengl_example.vcxproj -> C:\Users\welcome\Documents\GitHub\Midio\Cube\Levent_Development\graphics_examples\Release\opengl_example.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  opengl_example.vcxproj -> C:\Users\welcome\Documents\GitHub\Midio\Cube\Levent_Development\graphics_examples\Debug\opengl_example.exe
