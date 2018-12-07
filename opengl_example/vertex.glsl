@@ -5,4 +5,5 @@ uniform vec2 size;
 void main()
 {
 	gl_Position = vec4(vec3(size , 1.0)*(pos + wiggle), 1.0);
+	glRotatef(.01, .01, .01, .1);
 }

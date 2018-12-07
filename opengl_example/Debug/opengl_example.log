@@ -1,3 +1,7 @@
-﻿  main.cpp
-c:\users\welcome\documents\github\midio\cube\levent_development\graphics_examples\opengl_example\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  opengl_example.vcxproj -> C:\Users\welcome\Documents\GitHub\Midio\Cube\Levent_Development\graphics_examples\Debug\opengl_example.exe
+﻿main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol _SDL_main referenced in function _main_getcmdline
+C:\Users\CampbellJC1\Documents\GitHub\GL\Debug\opengl_example.exe : fatal error LNK1120: 6 unresolved externals
